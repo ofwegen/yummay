@@ -1,0 +1,3 @@
+[submodule "thai"]
+	path = thai
+	url = https://github.com/ewdob/ThaiLearningPlatform
