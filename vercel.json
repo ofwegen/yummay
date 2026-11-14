@@ -1,3 +1,4 @@
 {
-  "installCommand": "echo 'Skipping install step'"
+  "installCommand": "echo 'Skipping install step'",
+  "buildCommand": "echo 'Skipping build step'"
 }
